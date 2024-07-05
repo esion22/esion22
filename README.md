@@ -1,7 +1,5 @@
-# 👋 Benvenuto al mio Profilo GitHub!
-
-## 👨‍🎓 Chi sono
-Ciao! Sono Lorenzo Meroi, un neolaureato in ingegneria informatica al Politecnico di Milano.
+# 👋 Ciao!
+Ciao! Sono Lorenzo Meroi, un neolaureato in ingegneria informatica al Politecnico di Milano.👨‍🎓
 
 ## 💼 Progetti in evidenza
 
@@ -30,7 +28,6 @@ Progetto di ingegneria del software in Java.
 <img src="https://raw.githubusercontent.com/github/explore/main/topics/c/c.png" width="50" height="50"><img src="https://raw.githubusercontent.com/github/explore/main/topics/html/html.png" width="50" height="50"><img src="https://raw.githubusercontent.com/github/explore/main/topics/css/css.png" width="50" height="50"><img src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png" width="50" height="50"><img src="https://raw.githubusercontent.com/github/explore/main/topics/java/java.png" width="50" height="50">
 
 ## 📫 Contattami
-- Linkedin link
-- [Email](lorenzo.meroi22@gmail.com)
+- lorenzo.meroi22@gmail.com
 
 ![Politecnico di Milano](https://upload.wikimedia.org/wikipedia/commons/4/4f/Politecnico_di_Milano_stemmi.svg)
