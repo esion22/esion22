@@ -3,7 +3,7 @@ Hi!
 My name is Lorenzo Meroi. I have graduated in Software Engineering at Politecnico di Milano and I'm currently doing a master's degree in Artifical Intelligence in the same University.👨‍🎓
 
 ### Conoscenze informatiche
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=esion22&layout=compact&theme=tokyonight)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=esion22&layout=compact&theme=tokyonight&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
 <img src="https://raw.githubusercontent.com/github/explore/main/topics/c/c.png" width="50" height="50"><img src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png" width="50" height="50"><img src="https://raw.githubusercontent.com/github/explore/main/topics/java/java.png" width="50" height="50"><img src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png" width="50" height="50"><img src="https://raw.githubusercontent.com/github/explore/main/topics/html/html.png" width="50" height="50"><img src="https://raw.githubusercontent.com/github/explore/main/topics/css/css.png" width="50" height="50"><img src="https://raw.githubusercontent.com/github/explore/main/topics/mysql/mysql.png" width="50" height="50">
 
