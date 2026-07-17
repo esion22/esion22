@@ -44,22 +44,20 @@ Software Engineering graduate passionate about **Machine Learning**, **NLP**, **
 
 ## 📂 All Repositories
 
-- **[ADL-2026_Laguardia-Meroi-Poloni-Trapella](https://github.com/esion22/ADL-2026_Laguardia-Meroi-Poloni-Trapella)** — Advanced Deep Learning project with collaborative experiments, model design, and performance analysis on complex AI tasks.
-- **[RecSys2025-26_Laguardia-Meroi](https://github.com/esion22/RecSys2025-26_Laguardia-Meroi)** — Recommender Systems coursework focused on building, comparing, and evaluating recommendation algorithms.
-- **[IACV2024-25-HW_and_Project](https://github.com/esion22/IACV2024-25-HW_and_Project)** — Computer Vision homework and project repository covering image analysis, deep visual models, and experimentation.
-- **[NLP_2025-Meroi](https://github.com/esion22/NLP_2025-Meroi)** — NLP project centered on text processing, language modeling, and practical experimentation with modern techniques.
-- **[NAML-2024_Mauro_Meroi](https://github.com/esion22/NAML-2024_Mauro_Meroi)** — Machine Learning project work with emphasis on neural approaches, training pipelines, and result interpretation.
-- **[AN2DL-2025_Laguardia-Leonardi-Meroi-Poloni](https://github.com/esion22/AN2DL-2025_Laguardia-Leonardi-Meroi-Poloni)** — Advanced deep learning team project featuring implementation, tuning, and comparative evaluation of deep architectures.
-- **[SoftwareEngineering2_Meroi-Oliva-Poloni](https://github.com/esion22/SoftwareEngineering2_Meroi-Oliva-Poloni)** — Software Engineering 2 project focused on architecture, collaboration workflows, and robust software development practices.
-- **[SMBUD24-25_Meroi-Mauro-Poloni](https://github.com/esion22/SMBUD24-25_Meroi-Mauro-Poloni)** — Data-oriented academic project focused on analysis workflows and model-driven insights.
-- **[TIW_2024_Leonardi_Meroi](https://github.com/esion22/TIW_2024_Leonardi_Meroi)** — Web technologies project involving backend/frontend integration and interactive web application development.
-- **[prova-finale-reti-logiche-2023-2024](https://github.com/esion22/prova-finale-reti-logiche-2023-2024)** — Final project for Logic Networks focused on digital logic design and hardware-oriented problem solving.
-- **[ing-sw-2024-Luraghi-Meroi-Leonardi-Kodheli](https://github.com/esion22/ing-sw-2024-Luraghi-Meroi-Leonardi-Kodheli)** — Team Software Engineering project implementing the board game *Codex Naturalis* with strong focus on design and architecture.
-- **[API-Meroi-2022-23](https://github.com/esion22/API-Meroi-2022-23)** — Foundational algorithms/programming project emphasizing problem solving, algorithmic reasoning, and clean implementation.
+[![Readme Card](https://github-stats-extended.vercel.app/api/pin/?username=esion22&repo=ADL-2026_Laguardia-Meroi-Poloni-Trapella&theme=synthwave)](https://github.com/esion22/ADL-2026_Laguardia-Meroi-Poloni-Trapella)
+[![Readme Card](https://github-stats-extended.vercel.app/api/pin/?username=esion22&repo=RecSys2025-26_Laguardia-Meroi&theme=synthwave)](https://github.com/esion22/RecSys2025-26_Laguardia-Meroi)
+[![Readme Card](https://github-stats-extended.vercel.app/api/pin/?username=esion22&repo=IACV2024-25-HW_and_Project&theme=synthwave)](https://github.com/esion22/IACV2024-25-HW_and_Project)
+[![Readme Card](https://github-stats-extended.vercel.app/api/pin/?username=esion22&repo=NLP_2025-Meroi&theme=synthwave)](https://github.com/esion22/NLP_2025-Meroi)
+[![Readme Card](https://github-stats-extended.vercel.app/api/pin/?username=esion22&repo=NAML-2024_Mauro_Meroi&theme=synthwave)](https://github.com/esion22/NAML-2024_Mauro_Meroi)
+[![Readme Card](https://github-stats-extended.vercel.app/api/pin/?username=esion22&repo=AN2DL-2025_Laguardia-Leonardi-Meroi-Poloni&theme=synthwave)](https://github.com/esion22/AN2DL-2025_Laguardia-Leonardi-Meroi-Poloni)
+[![Readme Card](https://github-stats-extended.vercel.app/api/pin/?username=esion22&repo=SoftwareEngineering2_Meroi-Oliva-Poloni&theme=synthwave)](https://github.com/esion22/SoftwareEngineering2_Meroi-Oliva-Poloni)
+[![Readme Card](https://github-stats-extended.vercel.app/api/pin/?username=esion22&repo=SMBUD24-25_Meroi-Mauro-Poloni&theme=synthwave)](https://github.com/esion22/SMBUD24-25_Meroi-Mauro-Poloni)
+[![Readme Card](https://github-stats-extended.vercel.app/api/pin/?username=esion22&repo=TIW_2024_Leonardi_Meroi&theme=synthwave)](https://github.com/esion22/TIW_2024_Leonardi_Meroi)
+[![Readme Card](https://github-stats-extended.vercel.app/api/pin/?username=esion22&repo=prova-finale-reti-logiche-2023-2024&theme=synthwave)](https://github.com/esion22/prova-finale-reti-logiche-2023-2024)
+[![Readme Card](https://github-stats-extended.vercel.app/api/pin/?username=esion22&repo=ing-sw-2024-Luraghi-Meroi-Leonardi-Kodheli&theme=synthwave)](https://github.com/esion22/ing-sw-2024-Luraghi-Meroi-Leonardi-Kodheli)
+[![Readme Card](https://github-stats-extended.vercel.app/api/pin/?username=esion22&repo=API-Meroi-2022-23&theme=synthwave)](https://github.com/esion22/API-Meroi-2022-23)
 
 ---
-
-## 📊 GitHub Stats
 
 <div align="center">
 
